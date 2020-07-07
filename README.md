@@ -1,2 +1,2 @@
 # seanfitzg
-Public profile
+Software Engineer
